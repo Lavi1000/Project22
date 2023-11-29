@@ -1,2 +1,1 @@
-# Project22
-Arqueiro épico
+# project-C22-template
